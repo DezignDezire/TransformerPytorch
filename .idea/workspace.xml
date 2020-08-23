@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff96e094-d254-46a9-b2bc-75a15ed34533" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="ed69c3a9-d11f-46a6-9ca7-6880642dc3d8" />
+  <component name="ProjectId" id="1gJx40brVI2L8bx7uwsrbJmd2TS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.practise">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practise" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="translator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/translator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.translator" />
+      <item itemvalue="Python.practise" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff96e094-d254-46a9-b2bc-75a15ed34533" name="Default Changelist" comment="" />
+      <created>1597846302140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597846302140</updated>
+      <workItem from="1597846314548" duration="167000" />
+      <workItem from="1597846537566" duration="16029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Deployment" timestamp="1598172005751">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Deployment/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598172005751" />
+    <state x="168" y="84" key="#SSH_Configurations" timestamp="1598172167496">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="84" key="#SSH_Configurations/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598172167496" />
+    <state x="394" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597950372357">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="394" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.216.1112.834/0.0.1680.1050@0.0.1680.1050" timestamp="1597950372357" />
+    <state x="1700" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597846645016" />
+    <state x="2065" y="355" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1597959711522">
+      <screen x="1680" y="216" width="1112" height="834" />
+    </state>
+    <state x="2065" y="355" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/1680.216.1112.834/0.23.1680.1027@1680.216.1112.834" timestamp="1597959711522" />
+    <state width="1638" height="225" key="GridCell.Tab.0.bottom" timestamp="1598197774556">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="225" key="GridCell.Tab.0.bottom/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598171725810" />
+    <state width="1638" height="225" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774556" />
+    <state width="1638" height="296" key="GridCell.Tab.0.bottom/1680.216.1112.834/0.0.1680.1050@0.0.1680.1050" timestamp="1597950492583" />
+    <state width="1070" height="366" key="GridCell.Tab.0.bottom/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597995480742" />
+    <state width="1638" height="297" key="GridCell.Tab.0.bottom/1680.239.1112.811/0.0.1680.1050@0.0.1680.1050" timestamp="1597917761963" />
+    <state width="1638" height="225" key="GridCell.Tab.0.center" timestamp="1598197774556">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="225" key="GridCell.Tab.0.center/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598171725809" />
+    <state width="1638" height="225" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774556" />
+    <state width="1638" height="296" key="GridCell.Tab.0.center/1680.216.1112.834/0.0.1680.1050@0.0.1680.1050" timestamp="1597950492582" />
+    <state width="1070" height="366" key="GridCell.Tab.0.center/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597995480740" />
+    <state width="1638" height="297" key="GridCell.Tab.0.center/1680.239.1112.811/0.0.1680.1050@0.0.1680.1050" timestamp="1597917761962" />
+    <state width="1638" height="225" key="GridCell.Tab.0.left" timestamp="1598197774555">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="225" key="GridCell.Tab.0.left/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598171725808" />
+    <state width="1638" height="225" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774555" />
+    <state width="1638" height="296" key="GridCell.Tab.0.left/1680.216.1112.834/0.0.1680.1050@0.0.1680.1050" timestamp="1597950492581" />
+    <state width="1070" height="366" key="GridCell.Tab.0.left/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597995480739" />
+    <state width="1638" height="297" key="GridCell.Tab.0.left/1680.239.1112.811/0.0.1680.1050@0.0.1680.1050" timestamp="1597917761961" />
+    <state width="1638" height="225" key="GridCell.Tab.0.right" timestamp="1598197774556">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="225" key="GridCell.Tab.0.right/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598171725810" />
+    <state width="1638" height="225" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774556" />
+    <state width="1638" height="296" key="GridCell.Tab.0.right/1680.216.1112.834/0.0.1680.1050@0.0.1680.1050" timestamp="1597950492583" />
+    <state width="1070" height="366" key="GridCell.Tab.0.right/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597995480741" />
+    <state width="1638" height="297" key="GridCell.Tab.0.right/1680.239.1112.811/0.0.1680.1050@0.0.1680.1050" timestamp="1597917761962" />
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom" timestamp="1598197774547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774547" />
+    <state width="1070" height="277" key="GridCell.Tab.1.bottom/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958834891" />
+    <state width="1070" height="277" key="GridCell.Tab.1.center" timestamp="1598197774547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774547" />
+    <state width="1070" height="277" key="GridCell.Tab.1.center/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958834889" />
+    <state width="1070" height="277" key="GridCell.Tab.1.left" timestamp="1598197774546">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774546" />
+    <state width="1070" height="277" key="GridCell.Tab.1.left/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958834888" />
+    <state width="1070" height="277" key="GridCell.Tab.1.right" timestamp="1598197774547">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1070" height="277" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598197774547" />
+    <state width="1070" height="277" key="GridCell.Tab.1.right/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958834890" />
+    <state x="86" y="71" key="SettingsEditor" timestamp="1598172168415">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="86" y="71" key="SettingsEditor/0.0.1680.1050/-418.-1080.1920.1080@0.0.1680.1050" timestamp="1598172168415" />
+    <state x="86" y="71" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1598009063865" />
+    <state x="1737" y="272" key="SettingsEditor/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597959786447" />
+    <state x="1737" y="272" key="SettingsEditor/1680.216.1112.834/0.23.1680.1027@1680.216.1112.834" timestamp="1597959722050" />
+    <state x="86" y="71" key="SettingsEditor/1680.239.1112.811/0.0.1680.1050@0.0.1680.1050" timestamp="1597915849758" />
+    <state x="378" y="-634" key="WebDeployment.AddServerDialog.v.1" timestamp="1598170066632">
+      <screen x="-418" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="378" y="-634" key="WebDeployment.AddServerDialog.v.1/0.0.1680.1050/-418.-1080.1920.1080@-418.-1080.1920.1080" timestamp="1598170066632" />
+    <state x="2123" y="580" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1597959783567">
+      <screen x="1680" y="216" width="1112" height="834" />
+    </state>
+    <state x="2123" y="580" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597959783567" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1597958677763">
+      <screen x="1680" y="216" width="1112" height="834" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958677763" />
+    <state x="1901" y="374" width="670" height="676" key="search.everywhere.popup" timestamp="1597958896296">
+      <screen x="1680" y="216" width="1112" height="834" />
+    </state>
+    <state x="1901" y="374" width="670" height="676" key="search.everywhere.popup/1680.216.1112.834/0.0.1680.1050@1680.216.1112.834" timestamp="1597958896296" />
+    <state x="1901" y="374" width="670" height="676" key="search.everywhere.popup/1680.216.1112.834/0.23.1680.959@1680.216.1112.834" timestamp="1597958689772" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$utils.coverage" NAME="translator Coverage Results" MODIFIED="1597958834863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$practise.coverage" NAME="practise Coverage Results" MODIFIED="1598197520430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
